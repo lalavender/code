@@ -106,3 +106,7 @@ func TestErrorF(t *testing.T) {
 		panic(err)
 	}
 }
+
+func TestScan(t *testing.T) {
+
+}
